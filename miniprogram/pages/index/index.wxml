@@ -55,7 +55,7 @@
   <view class='card animation-fade'>
     <view class='card-desc text-caption'>今天的课</view>
     <view class='card-content layout-column layout-center' wx:if="{{!is_bind}}">
-      <button class='remind-btn sc-button sc-outlined-btn ' bindtap="auth" sc-class="sc-btn sc-outlined-btn">前往登陆</button>
+      <button class='remind-btn sc-button sc-outlined-btn ' bindtap="auth" sc-class="sc-btn sc-outlined-btn">前往登录</button>
     </view>
     
     <view class="padding  card-content " wx:else>
