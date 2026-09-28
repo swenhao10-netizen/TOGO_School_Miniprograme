@@ -46,11 +46,11 @@ Page({
         desc: "成绩",
         verify: "jwc"
       },
-      {
+      /＊{
         key: "gold",
         desc: "折上折助手",
         verify: ""
-      },
+      },＊/
       // {
       //   key: "lost",
       //   desc: "失物招领",
